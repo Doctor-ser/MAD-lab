@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+    <string name="activity_lifecycle">Activity Lifecycle</string>
+    <string name="onCreate">ONCREATE()</string>
+    <string name="onStart">ONSTART()</string>
+    <string name="onPause">ONPAUSE()</string>
+    <string name="onStop">ONSTOP()</string>
+    <string name="onRestart">ONRESTART()</string>
+    <string name="onDestroy">ONDESTROY()</string>
+</resources>
